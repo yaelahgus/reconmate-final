@@ -1,0 +1,6 @@
+# Local Netlify folder
+.netlify
+.nuxt
+.DS_Store
+dist
+node_modules

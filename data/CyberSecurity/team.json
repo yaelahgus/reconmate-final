@@ -1,0 +1,17 @@
+[
+  {
+    "picture": "/assets/img/team/1.png",
+    "position": "Full-Stack Developer",
+    "name": "Ibnu Fachrizal"
+  },
+  {
+    "picture": "/assets/img/team/2.png",
+    "position": "Web Developer",
+    "name": "Agus Arifudin"
+  },
+  {
+    "picture": "/assets/img/team/3.png",
+    "position": "Web Developer",
+    "name": "Faishal Ananta Ridha"
+  }
+]

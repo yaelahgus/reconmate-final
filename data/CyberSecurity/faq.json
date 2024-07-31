@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Apa itu Recon Mate?",
+    "answer": "Recon Mate hadir sebagai solusi dengan menyediakan platform yang memudahkan akses ke ribuan kerentanan keamanan siber dengan mengumpulkan tulisan (writeups), sumber daya (resources), dan konten (contents) yang berkaitan dengan ethical hacking, bug bounty, dan penetration testing."
+  },
+  {
+    "question": "Apakah writeups yang sudah ada akan terus diupdate?",
+    "answer": "Iya, writeups selalu diperbaharui dengan data terbaru."
+  },
+  {
+    "question": "Apakah bisa mencari kerentanan sesuai kategori?",
+    "answer": "Kamu bisa memilih kategori yang kamu inginkan dan mencari kerentanan seperti XSS, SSRF, SQLi, RCE, IDOR, CSRF, DISCLOSURE, INJECTIONS"
+  },
+  {
+    "question": "Apakah bisa mengunduh semua writeups ini?",
+    "answer": "Kamu bisa mengunduh semua writeups dengan mengklik Download as JSON/CSV file"
+  },
+  {
+    "question": "Bagaimana cara mengirimkan writeups saya sendiri?",
+    "answer": "Kamu bisa mengirimkan writeups melalui Contact Form dengan subjek judul writeups yang kamu miliki."
+  }
+]
